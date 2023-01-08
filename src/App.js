@@ -1,25 +1,61 @@
-import logo from './logo.svg';
-import './App.css';
+// import Card from "./Components/card";
+import Details from "./Details";
+
+
+import Card from "./Components/card";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div style={myStyle.projectName}>
+        <span style={myStyle.kartavya}>Kartavya</span>
+        <span style={myStyle.prastha}>Prastha</span>
+      </div>
+
+      <div style={myStyle.CardContainers}>
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card  name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+        <Card image={Details.Bhisma.image} name={Details.Bhisma.Name} />
+      </div>
     </div>
   );
 }
+
+const myStyle = {
+  projectName: {
+    color: "#FF5733",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  kartavya: {
+    fontSize: 85,
+  },
+  prastha: {
+    fontSize: 20,
+    marginTop: "90px",
+    marginLeft: "-60px",
+  },
+  CardContainers: {
+    display: "grid",
+    gridTemplateColumns: "200px 200px 200px 200px",
+    gridGap:'2rem',
+    justifyContent:'center',
+    margin:'100px'
+  },
+};
 
 export default App;
