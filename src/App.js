@@ -6,7 +6,7 @@ import Card from "./Components/card";
 
 function App() {
   return (
-    <div>
+    <div style={myStyle.mainContainer}>
       <div style={myStyle.projectName}>
         <span style={myStyle.kartavya}>Kartavya</span>
         <span style={myStyle.prastha}>Prastha</span>
@@ -35,6 +35,11 @@ function App() {
 }
 
 const myStyle = {
+    mainContainer:{
+        margin:0,
+        padding:0,
+        // backgroundImage:"./Components/images/mahaBharat.jpeg"
+    },
   projectName: {
     color: "#FF5733",
     display: "flex",
