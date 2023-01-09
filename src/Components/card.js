@@ -3,7 +3,7 @@
 function Card(props) {
   return (
     <div className="card">
-      <img  alt="Character_Image" />
+      <img  alt="Character_Image" src={props.image}/>
       <h3 style={Style.h3}>{props.name}</h3>
     </div>
   );
