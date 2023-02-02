@@ -14,19 +14,19 @@ function Home() {
       <div style={myStyle.CardContainers}>
         <Card image={img1} name={Details.Bhisma.Name} />{" "}
         <Card image={img1} name={Details.Krishna.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
-        <Card image={img1} name={Details.Bhisma.Name} />{" "}
+        <Card image={img1} name={Details.Dhritrastra.Name} />{" "}
+        <Card image={img1} name={Details.Karna.Name} />{" "}
+        <Card image={img1} name={Details.Dronacharya.Name} />{" "}
+        <Card image={img1} name={Details.Duryodhana.Name} />{" "}
+        <Card image={img1} name={Details.Kripacharya.Name} />{" "}
+        <Card image={img1} name={Details.Eklavya.Name} />{" "}
+        <Card image={img1} name={Details.Yudhishthira.Name} />{" "}
+        <Card image={img1} name={Details.Bhima.Name} />{" "}
+        <Card image={img1} name={Details.Arjuna.Name} />{" "}
+        <Card image={img1} name={Details.Nakul_and_Sahdev.Name} />{" "}
+        <Card image={img1} name={Details.Draupadi.Name} />{" "}
+        <Card image={img1} name={Details.Abhimanyu.Name} />{" "}
+        <Card image={img1} name={Details.Ashwatthama.Name} />{" "}
         <Card image={img1} name={Details.Bhisma.Name} />{" "}
       </div>{" "}
     </div>

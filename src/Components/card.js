@@ -11,7 +11,9 @@ function Card(props) {
 const Style ={
   h3:{
     margin:0,
-    padding:0
+    padding:0,
+    textAlign:'center',
+    fontStyle:'italic'
   },
   card:{
     display:'flex',

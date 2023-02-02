@@ -2,192 +2,108 @@ const Details = {
   Bhisma: {
     Name: "Bhishma Pitamaha",
 
-    Introduction: `In the epic Mahabharata, Devavrata also known as Gangaputra and Bhishma (Sanskrit: भीष्‍म) was well known for his celibate pledge, the eighth son of Kuru King Shantanu, who was blessed with wish-long life and had sworn to serve the ruling Kuru king and grand-uncle of both the Pandavas and the Kauravas. He was an unparalleled archer and warrior of his time. He also handed down the Vishnu Sahasranama to Yudhishthira when he was on his death bed (of arrows) in the battlefield of Kurukshetra. He also belonged to the Sankriti Gotra.`,
-    FairRole: `In the great battle at Kurukshetra, Bhishma was the supreme commander of the Kaurava forces for ten days. He fought reluctantly on the side of the Kauravas. Bhishma was one of the most powerful warriors of his time and in history. He acquired his prowess and invincibility from being the son of the sacred Ganga and by being a student of Lord Parashurama. Despite being about five generations old, Bhishma was too powerful to be defeated by any warrior alive at that time. Every day, he slew at least 10,000 soldiers and about a 1,000 rathas. At the beginning of the war, Bhishma vowed not to kill any of the Pandavas, as he loved them, being their grand-uncle. Duryodhana often confronted Bhishma alleging that he was not actually fighting for the Kaurava camp as he wouldn't kill any of the Pandavas. He also did not allow any of the Kauravas to be killed in the war, as he loved all his grand-nephews and wanted a peace negotiation.
-
-
-Bhishma telling the secret of his death to the Pandavas
-Duryodhana approached Bhishma one night and accused him of not fighting the battle to his full strength because of his affection for the Pandavas. On the next day there was an intense battle between Bhishma and Arjuna. Although Arjuna was very very skilled and Powerful, he was not fighting seriously as his heart was not in it to hurt his beloved grandsire Bhishma. Bhishma fired arrows such that Arjuna and Krishna were both injured. That angered Krishna who had already vowed to not raise a weapon in the war, lifted a chariot wheel and threatened Bhishma. Arjuna stopped Lord Krishna by convincing him to return to the chariot and put down the wheel, promising to fight with all his might and stop Bhishma. Thus Bhishma fulfilled his vow of forcing Krishna to raise a weapon. Then Arjuna used stronger weapons, injuring Bhishma. Bhishma and Arjuna's duel was praised by the gods themselves as they watched over it from the sky.`,
-    UnfairRole: `When Bhishma was on arrow bead before dying Lord Krishna takes entire Pandavas to take lessons from him. That's is the time he gives Vishnu Saharsanama and he advises Yudhishttra on Raja neethi.Draupadi who was listening to this laughs at the end. Then entire Pandavas were embarrassed they look at draupadi and stood speechless.
-
-Bhishma asks draupadi why did she laughed. Then draupadi replies such a noble upanyasam from a person like Bhishma was surprising and humorous and asks him where all these gyan he had went off when she was disrobed in open court. Where did all these Dharmic thoughts went off when Abhimanyuwas killed by treachery. How come he is remembering all this righteousness at the time of death.
-
-Bhishma replied daughter draupadi all these days I have had food offered by Duryodhna and its negative effects was in his blood hence his body and intellect was corrupted, after Arjuna piereced him with all his arrows all that blood was gone. Since then he regained his senses back.
-
-That is the reason God Sri Krishna says in Bhagavat geeta to Arjuna that food you eat shapes your destiny. Food , Body and soul are inter linked and hence God says that always offer food to me before you eat so that I take it as your offerings and take away all the negatives from it and convert that food as parshadh and give it back to you.
-
-`,
+    Introduction: `Bhishma was a prominent character in the Hindu epic, the Mahabharata. He was the son of King Shantanu and the goddess Ganga, and was known for his unwavering devotion and loyalty to his family, as well as his strength and valor as a warrior. Bhishma played a key role in the great battle of Kurukshetra, where he fought on behalf of his half-brother Dhritarashtra and his nephews, the Kauravas. Despite his affiliation with the oppressors, Bhishma was renowned for his sense of fairness and justice, and was respected by both sides of the conflict. Throughout his life, Bhishma demonstrated the importance of duty, loyalty, and the balance between right and wrong.`,
+    FairRole: `Bhishma's life in the Mahabharata teaches many valuable lessons. He was known for his unwavering devotion to his family and his strong sense of duty, which he upheld even in the face of personal suffering and sacrifice. Bhishma also demonstrated the importance of loyalty and the ability to keep one's word, as he honored his vow of celibacy and remained a lifelong bachelor despite being offered the opportunity to marry and have children. Furthermore, Bhishma was a model of fairness and justice, upholding the principles of dharma even when it meant siding against his own family. He also showed the importance of selflessness and the ability to put aside personal desires for the greater good, as he voluntarily stepped down from the throne in favor of his younger brother. These qualities demonstrate the importance of integrity, selflessness, and the balance between right and wrong.`,
+    UnfairRole: `Although Bhishma was widely respected for his wisdom, virtue, and loyalty, he also had a darker side in the Mahabharata. He supported the Kauravas in the great battle of Kurukshetra, even though he knew that their actions were unjust. He also played a role in the abduction of Draupadi, the wife of the Pandavas, and failed to speak out against her mistreatment. This caused a rift between Bhishma and the Pandavas and ultimately contributed to the outbreak of the war. These actions suggest that Bhishma was not immune to the pressures of loyalty and the desire to maintain the status quo, even when it meant overlooking the principles of dharma and justice.`,
   },
 
   Krishna: {
     Name: "Shree Krishna",
-    Introduction: ``,
-    FairRole: `One of the most profound verses of Gita comes in the 18th chapter. That one shlok, quite easily overlooked , conveys the entire gist of the Karma theory and Dharma.
-
-Gita has ~700 shlokas. After delivering a counselling session of about 684 shlokas, that was to guide humanity over coming 1000s of years, Krishna tells Arjun in the 685th shloka
-
-इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया
-विमृश्यैतदशेषेण यथेच्छसि तथा कुरु।।18.63।।
-
-“I have told you that you should need to know, now think about it, and do as you wish”
-
-The character of Krishna is one of the most significant characters in the above mentioned epic. Lord Krishna shows us how a ‘responsible man’ should behave in the time of domestic and international crisis. Even though he is the incarnation of Lord Vishnu, he displays all core human traits.
-
-The character of Krishna begins to influence the plot when he sees how talented the Pandavas as a group during the Draupadi’s Swayamva. At this time the Pandavas were at exile and Krishna ties them together with a single knot which is by making an arrangement of sharing a single wife for all the five brothers. Even today it sounds like a bizarre idea. This shows that how articulate is his character and how he gets his visions achieved even if it calls for odd practices which might arose uncomfortable noises in the society.
-
-We must also consider the fact that the Lord Krishna was at his fifties when he meet the Pandavas. Sri Krishna, the ‘Chief’ and the founder of Dwaraka. One of the major economic and cultural hub at the time. Before that, was already managed to relocate his cult ‘Yadavas’ to a safer place called ‘Dwaraka’ from the wrath of the Empire Jarasandha. That relocation involved evading a massive army and leading a large group of people including women, children and large folk of cattle through mountains which accommodates predator beasts. Later Dwaraka flourished to an influencing capital with his leadership. These incidents are not mentioned in the Mahabharata. I am just adding it to show that he was already a veteran in this kinds of affairs when the rift between the Kauravas and Pandavas gained his attention.`,
-    UnfairRole: `The Supreme Personality of Godhead said to the brāhmaṇa: I am completely under the control of My devotees. Indeed, I am not at all independent. Because My devotees are completely devoid of material desires, I sit only within the cores of their hearts. What to speak of My devotee, even those who are devotees of My devotee are very dear to Me.
-
-As chaste women bring their gentle husbands under control by service, the pure devotees, who are equal to everyone and completely attached to Me in the core of the heart, bring Me under their full control.
-
-The pure devotee is always within the core of My heart, and I am always in the heart of the pure devotee. My devotees do not know anything else but Me, and I do not know anyone else but them
-Krishna was considered as god. But he decieved Karna. And Duryodhan was considered as adharmi being. Duryodhan was a true friend of Karna. He gave his empire Ang to Karna when he didn't know the truth of Karna that he is the son of Sun God. He never insulted him. Pandavas were adharmi totally. Krishna never told them to not to do bet of his wife in dice game. So how could he classify pandavas as dharmi and karavas as adharmi? Bhishm pitamah and Dronacharya was good and dharmi beings. Dronachary was the great devotee of Lord Shiva and Bhishm was the son and devotee of Maa Ganga. Because they were not the devotee of Krishna so they were considered as evil and adharmi ….even Dronacharya killed by pandavas by deception. Ashvatthama too was devotee of Lord Shiva and even he would fight against Demon Kali in kalyug with Kalki Avtar. They were considered as evil and adharmi because they were not the devotees of Krishna. Krishna was considered as supreme above Lord Shiva and Lord Brahma. How is it possible?`,
+    Introduction: `Krishna is one of the central figures in the Hindu epic, Mahabharata. He was a prince of the Yadava dynasty and was considered to be an incarnation of Lord Vishnu. Krishna is known for his wisdom, bravery, and leadership skills and played a key role in the great battle of Kurukshetra, where he acted as the charioteer and advisor to the Pandavas.`,
+    FairRole: `Krishna is considered to be a symbol of selflessness, devotion, and duty. He lived his life with a sense of purpose and always placed the needs of others before his own. Krishna's teachings and lessons in the Mahabharata are still relevant today, and they encourage people to lead a life of virtue, compassion, and to always act in the best interests of others.`,
+    UnfairRole: `While Krishna is often portrayed as a divine and virtuous figure, he also had a darker side to his personality. In the Mahabharata, Krishna was known to use his powers and influence to manipulate situations and people in order to achieve his goals. He also sanctioned the use of violence and war, which resulted in the deaths of many innocent people. This darker aspect of Krishna's character highlights the complexities of human nature and the duality of good and evil.`,
   },
   Karna: {
     Name: "Karna",
-    Introduction: `Karna, also known as the sixth Pandava, is the unsung hero of the Mahabharata. Although he was the son of the solar God Surya, he was always discriminated against by most of the other characters for belonging to a lower caste. Also, despite being a loyal companion, his truthfulness was often misused by those whom he trusted. The tragedy of Karna’s life began before his birth when the sage Durvasa became a guest of Kunti’s father and Kunti served and treated him well for almost a year. Durvasa became impressed by the hospitality of Kunti and he granted her a boon. According to that boon, Kunti would be able to call any God and receive a child from him.
-
-Kunti, though unmarried at that time, used that boon out of curiosity and called God Surya. And from him, she received the child, Karna. Although he was the son of a God, Kunti became frightened to bear the stigma of becoming a mother before marriage and she set little Karna afloat on a river, inside a basket, hoping that he would be found and taken care of by some other family. Later, A charioteer called Adhiratha and his wife Radha found Karna and raised him as their child. Karna was more interested in the art of warfare than in his adoptive father’s profession. But unfortunately, when he went to Dronacharya, the teacher of the princes, the latter refused him to accept him as his disciple, as Karna had no royal blood in his body.`,
-    FairRole: `The Mahabharata is one of the greatest epics of all times. It narrates the battle between the Kauravas on the one side and the Pandavas on the other. The Pandavas, who represented righteousness, were outnumbered by the Kauravas during the time of the war. Nonetheless, the Pandavas, headed by Yudishthir,  emerged stronger than the opponents because they had Shri Krishna, the God by their side. The Pandavas, though fewer in number, won the battle of Kurukshetra, that witnessed human values degenerating. It was a war that not only saw warriors breaking the rules and disobeying the Kshatriya Dharma but redefined treachery, falsehood, deceit and greed.
-
-Interestingly, one can learn invaluable lessons from each of the characters of the great Indian epic. In this web-post, we shall learn more about Karna, popularly known as Karan, one of the greatest warriors of all times.
-
-Karna was the eldest son of Kunti. He was abandoned by her because he was born to her from the Sun God out of wed-lock. He was raised by a charioteer named Adhiratha and his wife, Radha. He lived in an era where only the Kshatriyas could learn the art of warfare and take lessons in artillery. He was so determined to become a warrior that he picked warfare skills on his own from the Sun God. He was as good as Arjuna, Dhronacharya's favourite disciple, in using the bow and the arrow. Thus, Karna teaches us to remain resolute if we wish to achieve our goal. `,
-    UnfairRole: `Karna is the main reason Abhimanyu died in Padmavyuha. After Abhimanyu entered the Padmavyuha, he destroyed almost everything that stood in his way. He moved through the ranks of Kaurava soldiers as if they were dead leaves on a walkway. And, Abhimanyu a mere 19 year old boy, was all alone there. Looking at this, the proud ruler of Hasthina, Duryodhan started panicking. As he saw Abhmimanyu advancing in the battle field with such ferocity, a strong chill of fear ran through his spine.
-
-Duryodhan immediately ran to Karna for help. Karna tried to stop Abhimanyu but he couldn’t succeed. The only way to stop Abhimanyu was to separate his mystical bow from his hand. As Karna couldn’t face him directly, he goes behind Abhimanyu’s back to break the bow. So, the great Karna went behind a mere 19 year old boy’s back to defeat him.
-
-Even after losing his bow, Abhimanyu fought with other weapons, as the Kauravas and Karna disarmed and stabbed him in the back. In his final moments, Abhimayu asked Karna to lend him a small knife to fight. But the great “Daana Karna” refused.
-
-Great virtues of Karna were kept aside for a few hours, just to kill a young boy. Karna may be great warrior, but he too had faults in his life.`,
-  },
+    Introduction: `Karna is one of the central characters in the Hindu epic Mahabharata. He was the son of Surya, the sun god, and Kunti, who was unmarried at the time of his birth. Karna was born with divine armor and earrings, which protected him from death. Despite his noble birth, he was raised by a charioteer and considered himself a member of the lower caste.`,
+    FairRole: `Karna's life teaches several important lessons, including humility, generosity, and bravery. He was a selfless person who was always willing to help others, even at the cost of his own life. He never lost faith in his friends and was always ready to offer his support. Karna's unwavering devotion to his friends and family, as well as his courage in the face of adversity, make him a role model for future generations.`,
+    UnfairRole: `Despite his many positive qualities, Karna also had some negative traits. He was prone to anger and had a tendency to act impulsively. He was also fiercely competitive and struggled with jealousy, especially towards his half-brothers, the Pandavas. These negative traits ultimately led to his downfall, as he became entangled in the battle between the Pandavas and the Kauravas, which ultimately resulted in his death. Despite his mistakes, Karna remains an important and revered figure in Hindu mythology.`},
   Duryodhana: {
-    Name: "Bhishma Pitamaha",
-    Introduction: `
-Dhṛtarāṣṭra born blind married Gāndhārī. Hungry and thirsty, Vyāsa once came to Dhṛtarāṣṭra’s palace where Gāndhārī treated him sumptuously, and he blessed her to have hundred sons by her husband. Ere long Gāndhārī conceived, but even after two years she did not deliver. Grief-stricken at this she got herself aborted in secret as the result of which she 'delivered' a mass of flesh, and hearing about it Vyāsa visited her. As instructed by him hundred pots were filled with ghee, and the mass of flesh was sprayed with cold water as a result of which it got divided into hundred pieces, each the size of a thumb. Also a smaller piece of flesh remained. Those pieces of flesh were deposited in the pots filled with ghee and the pots kept in a secret place. Vyāsa departed for the Himālayas for tapas.`,
-    FairRole: `Duryodhan lost because every friend who was on his side was with him for his own self interest and Pandavas won because Krishna was on their side for their interest and not his own
+    Name: "Duryodhana",
+    Introduction: ``,
+    FairRole: `Some good lessons from Duryodhana's life in the Mahabharata include his unwavering loyalty and devotion to his family and kingdom. He was also a skilled warrior and leader, who was willing to take calculated risks to achieve his goals. Additionally, Duryodhana showed a strong will and determination, never giving up in the face of adversity, even in the face of defeat.
 
-Karna wanted glory and was willing to sabotage Duryodhan's victory for it, he promised he will not kill 4 of the 5 pandavas before even the war started
-
-Ashwatthama wanted to clear his father's debt to Hastinapur. Who gave his father a job when they were poor and then a kingdom for them to rule (half a kingdom)
-
-Vinda and Anuvinda wanted revenge from Arjun's and Krishna for abducting their sister and killing Jarasandha
-
-Jayadrath supported him because he wanted his humiliation at the hands of Pandavas avenged same for Susharna of Trigarth or Bhagadutta, or Bhurishravas who had an axe to grind with satyaki. Kritaverma was sent by Krishna to fulfill his promise or he needed a opportunity to get out of Krishna alliance
-
-Not a single one of them came to Duryodhan to help him or for the sake of friendship
-
-And we see the result.
-
-So Duryodhan teaches me to choose my friends wisely who would support me in my time of need selflessly.
-His real name was Suyodhan but because of his evil acts he was called Duryodhana by everyone forever.
-
-Now let us see some of Duruyodana’s good qualities
-
-1-Duryodhan remains a loyal friend to karna and Ashwatthama and his other allies.
-
-2- When Guru Kripa humiliated Karna in an martial exhibition where the Kaurava and Pandava princes demonstrate their skills before their elders Duryodhana immediately defended Karna, and makes him king of Anga so that Karna can challenge Arjuna.
-Here he is quick recognize Karna's strength as more than equal to Arjuna.
-
-(People say he had his motives to have one person on his side matching Arjuna, but in just one meeting, that wasn’t possible to assess. But he kept faith. Also he listened and respected Karna all his life, that means when he became friends with Karna, he remained always. Though in the new Mahabharata, it is shown he insulted Karna, after knowing he was a Kaunteya, though that’s just showbiz. Actually it was Duryodhana, who cremated Karna in the end. Because it was his friend who died, not Eldest Pandava)
-
-3- Knowing Sahadev’s ability as an astrologer even though Sahadev was going to fight against him in Kurukshetra war, Duryodhan asked him to fix
-Muhurta time for commencement of war so that he can win.
-
-4- He is revered by his younger brothers, for he is very affectionate towards them
-
-5- He was a good disciple to Guru Drona, Kripa and Balarama and learnt martial skills; he was extremely powerful with the mace, and the equal of Bhima, the powerful Pandava, in its use.
 `,
-    UnfairRole: `Being the first-born son of the blind king, he was the crown prince of the Kuru Kingdom and its capital of Hastinapura, often forced into ceding the title to his cousin Yudhishthira, who was one of the Pandava brothers and older than him. Aided by his maternal uncle Shakuni, Duryodhana tricks the Pandavas into surrendering their kingdom and forces them to go into an exile. Later, Duryodhana waged the Kurukshetra War against his cousins and was helped by the warriors Bhishma, Drona and Karna. On the eighteenth day of the war, he was killed by Bheema. Duryodhana used his greater skill in wielding the mace to defeat his opponents. He was also an extremely courageous warrior and was said to be a good ruler, but his greed and arrogance were the two qualities said to have led to his downfall.`,
+    UnfairRole: `However, Duryodhana had a dark side as well. He was known for his greed, arrogance, and cruelty, which led him to make many unethical and immoral decisions throughout the course of the epic. He was also envious of the Pandavas, and went to great lengths to harm them and their kingdom. This included trying to kill the Pandavas in various ways, as well as trying to cheat them out of their rightful share of the kingdom through deceit and manipulation. Ultimately, his actions led to the great Kurukshetra War, which resulted in the death of many brave warriors and the eventual downfall of the Kuru Kingdom.`,
   },
   Draupadi: {
     Name: "Draupadi",
-    Introduction: `In the epic Mahabharata, Draupadi is the daughter of King Drupada, originally known as Princess Krishnaa (due to her dark complexion) and becomes the wife of the five Pandavas. When Yudhisthira becomes the king of Hastinapura, Indraprastha and the Emperor of India at the end of the war, Draupadi again becomes Queen.
-Drupada had been defeated by Arjuna on behalf of Drona, who subsequently took half his kingdom to humiliate him. To gain revenge on Drona, he performed a great sacrifice to beget a powerful son who could kill him. Having been struck by Arjuna's valour, Drupada also prayed at the sacrifice for an exceptionally beautiful daughter to give to his, as a token of his appreciation. Draupadi thus emerged with Drishtadyumna from the sacrificial fire.`,
+    Introduction: ``,
     FairRole: `
-    Draupadi, the famous wife of all five Pandava brothers, is such an important personality in the Mahabharata. We can learn so much from her. She is a strong female character who continues to inspire people all over the world. Through the suffering she endured, she exemplified the qualities of a true queen. Three lessons we learn from her are her loyalty to her husbands and the Lord, speaking her mind and truth, and her sense of justice. 
-
-Draupadi is one of the most loyal characters in the whole epic. She knew that she could’ve easily stayed out of most of the suffering that the Pandavas endured, but out of love, she chose to stay with her husband through thick and thin. She trusted them with her life and happiness. The same principle goes for how she trusted Lord Krishna. In the famous incident when Dushasana is attempting to disrobe her, Draupadi prays to Lord Krishna. She had faith and devotion throughout her life. 
-
-Another important lesson to learn from Draupadi is how throughout the epic she is constantly voicing her opinion. Especially through suffering and pain, one can feel very overwhelmed and helpless. But Draupadi voices her opinions and makes her position clear. This is especially important and contributes to her role as a strong female personality. 
-    When you are really awesome, you have to be extra cautious against hubris. Even a moment of arrogance can cost your honor. In the same way, your good deeds also will come to help you at the right time. Show some respect, miss.`,
-    UnfairRole: `Draupadi didn’t believe her five husbands. During Draupadi Chirharan, she screamed a lot informant of her husbands, she begged for help in front of many people, but no one helps her. After this incident, she lost her husband’s trust because none of her husbands rescued her. No one showed the boldness against this entire act. Well, her reasons are genuine because Pandavas also delayed killing Kichaka. Kichaka was a man who misbehaved Draupadi. They denied to kill him for fear of making their secret identities public. They also denied killing Jayadhrata, the husband of her sister-in-law. 
-    Draupadi is known as a fearless lady. She demanded justice whenever she saw any injustice act in front of her. When she was insulted, she asked for justice directly from the king of Hastinapur Dhritarashtra. She didn’t get back from her words and fight for justice in her entire life and believe in silence. She was popular for her fearless personality. 
-
-She also asked for justice to the Sairandhri when Kichaka insulted her. She openly threatened the king Virata & Dhritrashtra & her husband’s because they failed to protect her. Along with that, she also condemned Bhisma, Kripacharya, and Drona for not saving her at the time of Chirharan. Because of this personality, Yajnaseni was her other name. `,
+   `,
+    UnfairRole: ``,
   },
   Dhritrastra: {
     Name: "Dhritrastra",
-    Introduction: `Dhritarashtra (Sanskrit: धृतराष्ट्र, ISO-15919: Dhr̥tarāṣṭra) was a Kuru king, and the father of the Kauravas in the Hindu epic Mahabharata. He was the King of the Kuru Kingdom, with its capital at Hastinapura. He was born to Vichitravirya's first wife, Ambika.
-
-Dhritarashtra was born blind.[1] He fathered one hundred sons and one daughter, Dushala, by his wife, Gandhari and a son, Yuyutsu, by his wife's maid. These children, including the eldest son Duryodhana, but not including Yuyutsu and Dushala, came to be known as the Kauravas.`,
-    FairRole: `
-    The blind king Dhṛtarāṣṭra is a typical personality – neither wholly good, nor wholly evil. His besetting sin is just that, for all his great physical strength, mentally he is weak and vacillating, oscillating continuously between good and evil. He has good impulses, but they are weak at the most. Throughout he knows, and feels, that injustice is being done to the Pāṇḍavas, of whom he himself is the family guardian. But he is ever prone to support and explain away the mischievous deeds and wickedness of his errant sons. As the sinister consequences of his own inaction loom large before him, he feebly tries to ease a guilty conscience by blaming it all on Destiny and the inscrutable dominance of daiva over pauruṣa.
-    The exhibit #1 for bad parenting. He was blind to his children's faults & follies. He took no effort to correct them and way too biased towards his own children vs the duty he had. For such a bad parent, the just desserts was in seeing his dear ones go.`,
-    UnfairRole: `
-    Dhritarashtra’s physical disability compelled him to give up his dreams of becoming King despite being the rightful ruler. The bitterness fermented, leading to unwise and ill-advised decisions like the one not to return Indraprastha to the Pandavas — which some could argue led to the battle of Mahabharata.
-
-    Vidura was one of the wisest and most straightforward advisors of King Dhritarashtra. But despite Vidura’s pleas and warnings, the King turned a blind eye (pun intended) to him, often with dire consequences.
-
-    Dhritirashtra favoured his son Duryodhana, despite being aware of Duryodhana’s wrongdoings, as he was emotionally blind too. He did not think like a king, but like a father. He failed to control his son’s actions and arrogance, leading to an ill-advised war that had astronomical costs in terms of life.
-    
-    Leadership is about strength of character and the ability to take a decision and stand by it. Here lay the greatest failing of Dhritarashtra. His weakness is nowhere more apparent as when Draupadi was humiliated in his court but he chose to remain quiet, despite having the authority to stop a wrong from being committed.
-    `,
+    Introduction: ``,
+    FairRole: ``,
+    UnfairRole: ``,
   },
   Dronacharya: {
-    Name: "",
+    Name: "Duryodhana",
     Introduction: ``,
     FairRole: ``,
     UnfairRole: ``,
   },
   Arjuna: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Arjuna",
+    Introduction: `Arjuna is one of the central characters in the Hindu epic, the Mahabharata. He was the third of the five Pandava brothers and was considered to be one of the greatest warriors of his time. Arjuna was known for his bravery, skill, and devotion to dharma (duty and righteousness). He was also a close friend and devotee of Lord Krishna, who served as his charioteer and advisor during the Kurukshetra War. Arjuna's journey of self-discovery and growth, as well as his internal struggle over the morality of war, form a major part of the Mahabharata's narrative.`,
+    FairRole: `Arjuna's life in the Hindu epic, the Mahabharata, offers several important lessons for readers. One of the key lessons is the importance of dharma, or duty and righteousness, as seen in Arjuna's struggle over the morality of war. The power of devotion is also evident in Arjuna's relationship with Lord Krishna, who served as his advisor and charioteer. Arjuna's journey of self-discovery and growth serves as a reminder of the importance of introspection and self-awareness. His bravery and determination in the face of adversity demonstrate the power of perseverance. Finally, Arjuna's close bond with his brothers and with Lord Krishna highlight the importance of friendship and loyalty in our lives. These lessons from Arjuna's life serve as a guide for personal growth and development.`,
+    UnfairRole: `In the Hindu epic, the Mahabharata, Arjuna is not depicted as having a dark side, but rather as a complex hero with flaws and strengths. He was known for his bravery, skill, and devotion to dharma, but he also struggled with feelings of doubt, fear, and indecision at times. For example, before the Kurukshetra War, Arjuna was consumed by feelings of doubt about the morality of fighting against his own family and friends, which caused him to question his duty as a warrior. This inner struggle highlights his human qualities and makes him a relatable character for readers. While Arjuna is not depicted as having a "dark side" in the traditional sense, his flaws and internal struggles serve to make him a well-rounded and realistic hero in the epic.`,
   },
   Bhima: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Bhima",
+    Introduction: `Bhima is one of the five Pandava brothers in the Hindu epic, the Mahabharata. He is known for his great strength and bravery, as well as his quick wit and cunning nature. Bhima was born to Kunti and the wind-god Vayu, and was the second-eldest of the Pandavas. He played a key role in the Kurukshetra War and was responsible for killing several of the Kauravas' most powerful warriors, including the demon-like Dushasana. Despite his fearsome reputation, Bhima was also known for his love and loyalty to his family and friends, and was often relied upon for his courage and determination in the face of adversity.`,
+    FairRole: `Bhima's life in the Hindu epic, the Mahabharata, offers several important lessons for readers. One of the key lessons is the importance of strength and bravery. Bhima's physical strength and fearlessness in battle serve as a reminder of the power of courage and determination in the face of adversity. He also highlights the importance of cunning and wit, as his quick thinking and strategic nature often proved valuable in battle. Bhima's deep love and loyalty to his family and friends also underscore the importance of relationships and the power of bonds between individuals. Finally, Bhima's determination and perseverance serve as an example of the importance of never giving up, even in the face of overwhelming odds. These lessons from Bhima's life serve as a guide for personal growth and development.`,
+    UnfairRole: `In the Hindu epic, the Mahabharata, Bhima is depicted as having a hot-headed and impulsive nature, which sometimes leads him to act rashly and make decisions that are not in line with dharma. For example, he is known for his violent tendencies and his thirst for revenge against the Kauravas, which at times threatens to undermine the Pandavas' cause. He also has a tendency to become consumed by anger and rage, which can lead him to behave in destructive and even cruel ways. However, despite these flaws, Bhima is also depicted as being deeply loving and loyal to his family, and his actions are often motivated by a desire to protect them. In summary, Bhima's character in the Mahabharata is complex and multifaceted, with both admirable qualities and darker traits that serve to make him a well-rounded and realistic hero in the epic.`,
   },
   Abhimanyu: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Abhimanyu",
+    Introduction: `Abhimanyu was the son of Arjuna and Subhadra in the Hindu epic, the Mahabharata. He was a skilled warrior and known for his bravery and valor. Abhimanyu was trained in the use of weapons by his father, and was considered to be a prodigy in battle. Despite his young age, he played a key role in the Kurukshetra War, where he was known for his fearlessness and determination. Abhimanyu is most famous for his heroic actions in the Chakravyuha, a military formation created by the Kauravas, where he single-handedly penetrated the formation and fought against impossible odds before being killed. Abhimanyu's bravery and unwavering commitment to his duty serve as a reminder of the power of courage and determination in the face of adversity.`,
+    FairRole: `The life of Abhimanyu in the Hindu epic, the Mahabharata, teaches several important lessons for readers. Firstly, Abhimanyu's bravery and fearlessness serve as a reminder of the power of courage and determination in the face of adversity. He was willing to put himself in harm's way to protect his family and friends, and his unwavering commitment to his duty is an inspiration for readers. Secondly, Abhimanyu's skill and mastery of weapons highlights the importance of discipline and hard work. He was trained by his father, Arjuna, and became a prodigy in battle at a young age due to his dedication and perseverance. Finally, Abhimanyu's tragic death serves as a reminder of the fragility of life and the importance of valuing every moment. His life and legacy serve as a reminder of the impact that one person can have, even in the face of seemingly insurmountable odds. These lessons from Abhimanyu's life serve as a guide for personal growth and development.`,
+    UnfairRole: `Abhimanyu's character in the Hindu epic, the Mahabharata, is mostly depicted as being noble, brave, and virtuous. However, he does not have any significant negative traits or dark sides. He is portrayed as a skilled warrior, brave and loyal to his family, and dedicated to his duty. His life is a testament to the power of courage and determination, and his tragic death serves as a reminder of the fragility of life. Therefore, there is no notable "dark side" to Abhimanyu's life in the Mahabharata.`,
   },
   Yudhishthira: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Yudhishthira",
+    Introduction: `Yudhishthir, also known as Dharmaraja, was the eldest of the five Pandavas in the Hindu epic, the Mahabharata. He was known for his strong sense of righteousness and his unwavering commitment to dharma, the moral law that governs human behavior. Yudhishthir was the king of Hastinapura and was revered for his wisdom, compassion, and integrity. Despite his many virtues, Yudhishthir also had his weaknesses, including a tendency to be overly truthful and a tendency to be swayed by his emotions. Throughout the course of the epic, Yudhishthir grapples with his own moral dilemmas and emerges as a complex and flawed hero, whose life teaches important lessons about the nature of dharma and the challenges of leadership.`,
+    FairRole: `The life of Yudhishthir in the Hindu epic, the Mahabharata, teaches several important lessons for readers. Firstly, Yudhishthir's unwavering commitment to dharma, the moral law that governs human behavior, highlights the importance of living a life guided by moral principles. He consistently strives to do what is right and just, even when it is difficult or unpopular. Secondly, Yudhishthir's struggles with his own weaknesses and moral dilemmas serve as a reminder that even the wisest and most virtuous individuals face challenges in their lives. He grapples with his own tendencies towards excessive truthfulness and emotional instability, and his experiences serve as a guide for personal growth and development. Finally, Yudhishthir's leadership and wisdom serve as a reminder of the importance of compassion and good judgment in leadership. Despite his many virtues, he is a complex and flawed hero, whose life teaches important lessons about the nature of dharma and the challenges of leadership.`,
+    UnfairRole: `Yudhishthir, also known as Dharmaraja, is generally portrayed as a virtuous and wise character in the Hindu epic, the Mahabharata. However, he does have some negative traits and weaknesses that can be considered his "dark side." For example, he has a tendency to be overly truthful, which at times can be harmful to himself and those around him. He also struggles with his emotions and can be swayed by his desires, leading to impulsive and sometimes rash decisions. Additionally, he is prone to gambling, which ultimately leads to the loss of his kingdom and his wife. These flaws in Yudhishthir's character serve as a reminder that even the most virtuous individuals are not immune to human weaknesses and flaws, and they add depth and complexity to his character in the epic.`,
   },
   Nakul_and_Sahdev: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Nakul and Sahadeva",
+    Introduction: `Nakul and Sahadeva were two of the five Pandavas in the Hindu epic, the Mahabharata. They were the younger twin brothers of the Pandavas and were known for their skills as warriors and their devotion to their family. Nakul was known for his handsomeness and charm, while Sahadeva was renowned for his knowledge and wisdom. The two brothers were instrumental in the Pandavas' victory in the great war of Kurukshetra, and they both played important roles in the events that shaped the epic. Despite their bravery and loyalty, Nakul and Sahadeva were often overshadowed by their older brothers, Bhima, Arjuna, and Yudhishthir, and are not as well known as the other Pandavas in popular culture. Nevertheless, their lives and stories serve as an important part of the Mahabharata and provide important lessons for readers.`,
+    FairRole: `The lives of Nakul and Sahadeva in the Hindu epic, the Mahabharata, offer several valuable lessons for readers. Firstly, their devotion to their family and their unwavering loyalty to their brothers, the Pandavas, highlights the importance of strong family bonds and the power of solidarity in times of crisis. Secondly, their skills as warriors and their bravery in battle serve as a reminder of the importance of courage and determination in the face of adversity. Thirdly, Nakul's handsomeness and charm and Sahadeva's wisdom and knowledge demonstrate the importance of cultivating multiple talents and strengths in order to be well-rounded and successful individuals. Finally, the twins' relationships with their brothers and their role in the great war of Kurukshetra serve as a reminder of the interconnectedness of individuals and the importance of considering the perspectives and needs of others. Despite not being as well-known as some of their other brothers, the lives of Nakul and Sahadeva offer valuable lessons for readers and contribute to the rich tapestry of the Mahabharata.`,
+    UnfairRole: `In the Hindu epic, the Mahabharata, Nakul and Sahadeva are often portrayed as minor characters and are not given as much attention as some of the other Pandavas. As a result, there is not much information available about their negative traits or weaknesses, and their characters are largely depicted in a positive light. However, it is possible that the lack of attention given to them could be seen as a flaw in and of itself, as it suggests that they were not considered as important or significant as their older brothers. Additionally, their lack of individuality and their tendency to blend into the background could be seen as a weakness, as it highlights their dependence on their brothers and their lack of independence. These are potential areas where the characters of Nakul and Sahadeva could be seen as having a "dark side," but overall they are largely portrayed as positive and virtuous individuals in the epic.`,
   },
   Eklavya: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Eklavya",
+    Introduction: `Eklavya was a character in the Hindu epic, the Mahabharata. He was a prince of the Nishadha tribe and was known for his exceptional archery skills. Despite being born into a lower-caste tribe, Eklavya aspired to become a great warrior and archer. He practiced on his own, using a clay statue of the renowned archer guru, Dronacharya, as his teacher. His skill and dedication eventually caught the attention of Dronacharya, who was shocked to see that a prince from a lower-caste tribe had surpassed his own students, including the Pandavas prince Arjuna. To ensure that Arjuna remained the greatest archer in the land, Dronacharya demanded that Eklavya cut off his right thumb as guru-dakshina, or a teacher's fee. Despite the high cost, Eklavya obediently cut off his thumb and gave it to Dronacharya. This act of selflessness and obedience to his teacher made Eklavya an exemplar of devotion and dedication to one's craft, and he remains a revered figure in Hindu mythology to this day.`,
+    FairRole: `Eklavya's life in the Hindu epic, the Mahabharata, teaches several important lessons. Firstly, his unwavering dedication and self-discipline in the pursuit of his passion for archery despite the challenges he faced as a prince of a lower-caste tribe is an inspiration to all. He teaches us that with hard work, perseverance and determination, one can achieve great things. Secondly, his obedience to his teacher and willingness to pay the high cost of guru-dakshina is a lesson in the value of devotion to one's guru and the importance of respecting traditional practices and customs. Finally, Eklavya's humility in the face of discrimination based on his caste is a lesson in the importance of self-respect and dignity, and an encouragement to stand up for one's beliefs even in the face of adversity. These lessons from Eklavya's life make him an enduring figure in Hindu mythology, and an example for people of all walks of life.`,
+    UnfairRole: `In the Hindu epic, the Mahabharata, the dark side of Eklavya's life stems from his being born into a lower-caste tribe, which led to discrimination and prejudice from those of higher castes, including the renowned archery guru, Dronacharya. Despite his exceptional archery skills, Eklavya was not accepted as a student by Dronacharya because of his lower-caste status, and he was forced to practice on his own using a clay statue of Dronacharya as his teacher. When Dronacharya finally became aware of Eklavya's skills and realized that he had surpassed his own students, including the Pandavas prince Arjuna, he demanded that Eklavya cut off his right thumb as guru-dakshina. This act of cruelty by Dronacharya was a result of the deep-seated prejudice and discrimination that existed in the society of the time and highlights the negative effects of such attitudes.`,
   },
   Kripacharya: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Kripacharya",
+    Introduction: `Kripacharya is a character in the Hindu epic, the Mahabharata. He is the son of the sage, Rishi Kripa, and is a teacher of martial arts and military tactics. Kripacharya served as a mentor and teacher to both the Pandavas and Kauravas, and was known for his wisdom and skill as a warrior. During the great battle of Kurukshetra, he fought on the side of the Kauravas and was one of their most trusted advisors. Despite his loyalty to the Kauravas, Kripacharya was known for his impartiality and fairness, and was respected by both sides of the conflict. In the aftermath of the battle, he became the spiritual teacher of Parikshit, the grandson of the Pandavas, and continued to impart his wisdom to future generations.`,
+    FairRole: `In the Hindu epic, the Mahabharata, Kripacharya's life teaches several valuable lessons. Firstly, Kripacharya's dedication to imparting knowledge and skills to both the Pandavas and Kauravas, despite the conflict between them, demonstrates the importance of imparting wisdom and education impartially and without bias. Secondly, his ability to remain neutral and impartial, even in the face of intense conflict, highlights the importance of maintaining one's values and principles in the face of adversity. Additionally, Kripacharya's bravery and skills as a warrior show the value of being prepared and equipped to face challenges in life. Finally, his role as a mentor and spiritual teacher to future generations highlights the importance of passing on one's knowledge and wisdom to future generations and being a positive influence on the world.`,
+    UnfairRole: `In the Mahabharata, there is no significant mention of a "dark side" to Kripacharya's character. However, his loyalty to the Kauravas, who were the oppressors and antagonists in the great battle of Kurukshetra, may be seen as a negative aspect of his character. Additionally, as a warrior, he fought in the battle and participated in acts of violence. However, it should be noted that in the context of the story, he was bound by his duty as a warrior and teacher to the Kauravas and was not depicted as acting out of cruelty or malevolence.`,
   },
   Ashwatthama: {
-    Name: "Bhishma Pitamaha",
-    Introduction: ``,
-    FairRole: ``,
-    UnfairRole: ``,
+    Name: "Ashwatthama",
+    Introduction: `In the Hindu epic, the Mahabharata, Ashwatthama is the son of Dronacharya, one of the greatest warriors and teachers of his time. He is depicted as a warrior of exceptional skill and bravery, who is a key player in the great battle of Kurukshetra. Ashwatthama is known for his devotion to his father and his loyalty to the Kauravas, which puts him at odds with the Pandavas. Despite his association with the Kauravas, he is also known for his extreme martial prowess and ferocity in battle, which earns him a reputation as one of the fiercest warriors of his time.`,
+    FairRole: `Ashwatthama's life in the Mahabharata teaches several important lessons. Firstly, the devotion and loyalty he demonstrates towards his father Dronacharya, despite his father's affiliation with the oppressors in the great battle of Kurukshetra, is a testament to the value of filial piety. Additionally, Ashwatthama's martial prowess and bravery in battle serve as an example of the importance of courage and determination. However, it is important to note that his actions in the battle, including the killing of innocent warriors while they slept, serve as a cautionary tale against the dangers of blind loyalty and the abuse of power. Overall, the character of Ashwatthama highlights the complexity of human nature and the importance of making moral and ethical decisions, even in the face of difficult circumstances.`,
+    UnfairRole: `The dark side of Ashwatthama's life in the Mahabharata is seen in his actions during the great battle of Kurukshetra. Despite his skill and bravery as a warrior, he is depicted as cruel and unethical in his methods, such as killing innocent warriors while they slept. He is also depicted as being vengeful and seeking retribution, even if it means breaking the rules of engagement in battle. These actions demonstrate the dangers of unchecked anger and the consequences of moral decay in the face of power and the desire for victory. Ashwatthama's actions serve as a reminder of the importance of maintaining one's integrity and ethics, even in the face of adversity.`,
   },
 };
 
 export default Details;
+
+
+// short introduction of duryodhana in mahabharata
+
+// good lessions from duryodhana life in mahabharata
+// write it in a paragraph
+
+
+// dark side from the life of duryodhana in mahabharata
+
+// write in a separate paragraph each
